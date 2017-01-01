@@ -2,6 +2,7 @@
 A Front-End web development Project
 
 Javascripts included in project:
-*Bootstrap
+
+Bootstrap
 jquery
 magnific-popup
